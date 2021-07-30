@@ -1,0 +1,6 @@
+framework module wgl_test_framework {
+  umbrella header "wgl_test_framework.h"
+
+  export *
+  module * { export * }
+}
