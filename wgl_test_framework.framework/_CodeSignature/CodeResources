@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/TestObject.h</key>
-		<data>
-		0nxPrgL3cjjoW2VuP5lkI6J7Bi4=
-		</data>
 		<key>Headers/wgl_test_framework.h</key>
 		<data>
-		+iZ9Tq9PlyHoHwGWYu7WKoUAiP8=
+		+HHr0kLefytJh0BhJLX4NOHtLdo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		23Va0UcVVhcxZvc3IU1XA/otcQk=
+		cZr3Nt6xTJsQpY2KqbW1vnjV2ss=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,34 +19,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/TestObject.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0nxPrgL3cjjoW2VuP5lkI6J7Bi4=
-			</data>
-			<key>hash2</key>
-			<data>
-			pUqM1DWXeFRwfeX8mD2galyZNiscRylMS446rSbhj0I=
-			</data>
-		</dict>
 		<key>Headers/wgl_test_framework.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+iZ9Tq9PlyHoHwGWYu7WKoUAiP8=
-			</data>
 			<key>hash2</key>
 			<data>
-			w/GKGV6gCrNg/cBtI7CzckrjK9ejKVpoScPW5+ojxrY=
+			uWrx/lEhV63YXGpPBnv0fOxmDTBv9Bn9Xa426ywsoA4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Snv0Ma51iQ0so5nikk2MbwMTqqU=
-			</data>
 			<key>hash2</key>
 			<data>
 			cY5CnAePRC88RmGKA2DnoeA1lwGUjLg7jyv42WFw8ok=
